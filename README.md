@@ -16,3 +16,15 @@ I'm solving the problems in Java to help the elves 🧚‍♂️ and santa 🎅 
     - Solution ⚙️:
         - [Part 1](/2023/days/03/src/PartOne.java)
         - [Part 2](/2023/days/03/src/PartTwo.java)
+* [Day 4: Day 4: Scratchcards](https://adventofcode.com/2023/day/4)
+    - Solution 🂠:
+        - [Part 1](/2023/days/04/src/PartOne.java)
+        - [Part 2](/2023/days/04/src/PartTwo.java)
+* [Day 5: If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5)
+    - Solution 🌾:
+        - [Part 1](/2023/days/05/src/PartOne.java)
+        - [Part 2](/2023/days/05/src/PartTwo.java)
+* [Day 6: Day 6: Wait For It](https://adventofcode.com/2023/day/6)
+    - Solution ⛵️:
+        - [Part 1](/2023/days/06/src/PartOne.java)
+        - [Part 2](/2023/days/06/src/PartTwo.java)
