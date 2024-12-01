@@ -3,6 +3,14 @@
 This is a repository for my solutions to the [Advent of Code](https://adventofcode.com/) challenges.
 I'm solving the problems in Java to help the elves 🧚‍♂️ and santa 🎅 save Christmas 🎄.
 
+# 2024 🎄
+* [Day 1: Historian Hysteria!](https://adventofcode.com/2024/day/1)
+    - Solution 📜:
+        - [Part 1](/2024/days/01/src/PartOne.java)
+        - [Part 2](/2024/days/01/src/PartTwo.java)
+
+
+
 # 2023 ❄️
 * [Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1)
     - Solution 🌨️:
@@ -24,7 +32,7 @@ I'm solving the problems in Java to help the elves 🧚‍♂️ and santa 🎅 
     - Solution 🌾:
         - [Part 1](/2023/days/05/src/PartOne.java)
         - [Part 2](/2023/days/05/src/PartTwo.java)
-* [Day 6: Day 6: Wait For It](https://adventofcode.com/2023/day/6)
+* [Day 6: Wait For It](https://adventofcode.com/2023/day/6)
     - Solution ⛵️:
         - [Part 1](/2023/days/06/src/PartOne.java)
         - [Part 2](/2023/days/06/src/PartTwo.java)
