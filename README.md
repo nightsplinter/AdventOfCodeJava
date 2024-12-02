@@ -8,6 +8,11 @@ I'm solving the problems in Java to help the elves 🧚‍♂️ and santa 🎅 
     - Solution 📜:
         - [Part 1](/2024/days/01/src/PartOne.java)
         - [Part 2](/2024/days/01/src/PartTwo.java)
+* [Day 2: Red-Nosed Reports](https://adventofcode.com/2024/day/2)
+    - Solution 🦌:
+        - [Part 1](/2024/days/02/src/PartOne.java)
+        - [Part 2](/2024/days/02/src/PartTwo.java)
+
 
 
 
