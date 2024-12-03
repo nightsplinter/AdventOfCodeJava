@@ -12,6 +12,10 @@ I'm solving the problems in Java to help the elves 🧚‍♂️ and santa 🎅 
     - Solution 🦌:
         - [Part 1](/2024/days/02/src/PartOne.java)
         - [Part 2](/2024/days/02/src/PartTwo.java)
+* [Day 3: Day 3: Mull It Over](https://adventofcode.com/2024/day/3)
+    - Solution ✕:
+        - [Part 1](/2024/days/03/src/PartOne.java)
+        - [Part 2](/2024/days/03/src/PartTwo.java)
 
 
 
